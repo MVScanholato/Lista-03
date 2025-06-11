@@ -1,5 +1,5 @@
 
-//exercicio 02
+//exercicio 01
 
 import java.util.Scanner;
 
@@ -101,7 +101,7 @@ public class MenorNumeroApp {
     }
 }
 
-//exercicio 03
+//exercicio 04
 
 import java.util.Scanner;
 
